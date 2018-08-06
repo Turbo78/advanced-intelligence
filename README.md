@@ -1,2 +1,2 @@
-# advanced-intelligence
-advanced-intelligence
+# expanded-intelligence
+expanded-intelligence
