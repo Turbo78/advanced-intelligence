@@ -1,6 +1,8 @@
 # expanded-intelligence
-expanded-intelligence.
+expanded-intelligence
+
 The goal is to refine the artificial intelligence to the expanded intelligence.
+
 Documentation
 See the page ____________ docs site.
 
